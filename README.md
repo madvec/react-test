@@ -21,4 +21,4 @@ Para poder ejecutar el proyecto seguir los siguientes pasos.
 - npm install
 - npm start
 
-Considero que aunque aun muy lento, el desarrollo del proyecto lleva buen paso siendo el inconveniente la poca experiencia con el framework React, una herramienta que sin duda estoy aprendiendo con 
+Considero que aunque aun muy lento, el desarrollo del proyecto lleva buen paso siendo el inconveniente la poca experiencia con el framework React, una herramienta que sin duda estoy aprendiendo con mucho entusiasmo para poder dominarlo lo mejor posible.
