@@ -1,4 +1,5 @@
 #Proyecto de prueba con React
+
 ##El proyecto aun no se encuentra terminado y está en un 20% de capacidad.
 Solo se cuenta con la parte del Login realizando las validaciones correspondientes.
 
@@ -18,6 +19,7 @@ Para la gráfica se pretendía utilizar la herramienta
 - AnyChart.
 
 Para poder ejecutar el proyecto seguir los siguientes pasos.
+- Clonar el repositorio (https://github.com/madvec/react-test)
 - npm install
 - npm start
 
