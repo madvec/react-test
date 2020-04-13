@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+select.form-control,
+textarea.form-control,
+input.form-control {
+  font-size: 16px;
+}
+input[type=file] {
+  width: 100%;
+}
+
+.navbar-default {
+  margin-bottom: 0;
+  margin-left: -15px;
+  width: calc(100% + 30px);
+}
